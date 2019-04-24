@@ -38,3 +38,7 @@ function teste() {
 function teste2() {
 	console.log("Teste 2");
 }
+
+function teste3() {
+	console.log("Teste 2");
+}
